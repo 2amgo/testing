@@ -12,6 +12,7 @@ public class FactorialTest {
             
             Assert.assertEquals(720, MathUtil.getFactorial(6));
             Assert.assertEquals(1, MathUtil.getFactorial(0));
+            
         }
         //bat xem co nem ngaoi le nhu ky vong hay khong . 
         //neu dung ham duoc thiet ke phai nem ngoai le , thuc su khi chay la ham dung n
@@ -24,4 +25,7 @@ public class FactorialTest {
         //tổng kết cho xanh đỏ, 
         //xanh khi tất cả các tình huống test là xanh , 
         //tách các case ra. kỳ vọng sai. như kỳ vọng ném ngoại lệ mà lại đặt th đúng
+        //đỏ có hai th : tính toán sai không ra kỳ vọng. hoặc kỳ vọng sai nhưng trong 
+        //khi tính đúng.
+        //Data Driven testing 
 }
