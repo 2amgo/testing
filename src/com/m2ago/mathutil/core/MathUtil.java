@@ -23,8 +23,8 @@ public class MathUtil {
         if (n > 20 || n < 0) 
             throw new IllegalArgumentException("invalid agrument");
         
-        if (n == 1)
+        if (n == 0 || n == 1)
             return 1;
-        return n * getFactorial(n-1);
+        return n * getFactorial(n - 1);
     } 
 }
