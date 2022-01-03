@@ -28,8 +28,8 @@ public class AdvanceFactorialTest {
                                 {3, 6},
                                 {4, 24},
                                 {5, 120},
-                                {6, 720},
-                                {7, 5040},
+                                {6, 220},
+                                
     };
    }
     @Parameter(value = 0) // n ung voi cot o 
