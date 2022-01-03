@@ -1,3 +1,4 @@
+[![math-util with CI | © 2022 2am](https://github.com/2amgo/testing/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/2amgo/testing/actions/workflows/math-util-ci.yml)
 # welcome to 2am
 
 ### you find in this repo the following stuff:
